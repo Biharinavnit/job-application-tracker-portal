@@ -210,45 +210,28 @@ NODE_ENV=development
 
 ---
 
-## 📸 Screenshot to Capture
-
-## Screenshot
-
-### Register Page
-
-![Register](docs/screenshot/register.png)
-
-### Login Page & Forget Password
-
-![Login](docs/screenshot/login.png)
+## 📸 Project Screenshots
 
 ### Dashboard
+![Dashboard](docs/screenshoot/Dashboard.png)
 
-![User](docs/screenshot/dashboard.png)
+### Login Page
+![Login Page](docs/screenshoot/Login%20Page.png)
 
-### Kanban dashboard
+### Register Page
+![Register Page](docs/screenshoot/Register%20Page.png)
 
-![Kanban](docs/screenshot/Kanban.png)
-
-### Add Application
-
-![Add application](docs/screenshot/Add-application.png)
-
-### Application
-
-![application]docs/screenshot/Application.png
+### Kanban Dashboard
+![Kanban Dashboard](docs/screenshoot/Kanban%20dashboard.png)
 
 ### Reports and Analytics
-
-![reports](docs/screenshot/reports.png)
-
-### Recently Deleted
-
+![Reports and Analytics](docs/screenshoot/Reports%20and%20Analytics.png)
 
 ### MongoDB Collections
+![MongoDB Collections](docs/screenshoot/MongoDB%20Collections.png)
 
-![collection](docs/screenshot/mongodb-item.png)
-
+### Recently Deleted
+![Recently Deleted](docs/screenshoot/Recently%20Deleted.png)
 
 
 
