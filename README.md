@@ -12,12 +12,16 @@
 
 ## Problem Statement
 
-Students and professionals apply to dozens of jobs across LinkedIn, Indeed, Naukri, and company portals. Without a central tracker:
+Students and working professionals often apply for multiple jobs across platforms such as LinkedIn, Indeed, Naukri, and company career portals. Managing these applications manually across different platforms can become difficult and time-consuming.
 
-- Applications get forgotten
-- Interview dates are missed
-- Offer deadlines pass unnoticed
-- There's no way to measure what's working
+Without a centralized job application tracking system:
+
+- **Missed applications:** Applicants may forget where they applied or lose track of application statuses.
+- **Missed interviews:** Interview schedules and follow-up dates can be overlooked.
+- **Missed deadlines:** Offer acceptance deadlines and important recruitment timelines may pass unnoticed.
+- **Lack of insights:** Applicants may struggle to measure response rates, track hiring progress, and identify which job-search channels are most effective.
+
+JobTrack addresses these challenges by providing a centralized platform to organize job applications, track recruitment stages, manage important details, and monitor job-search progress through a dashboard and reports.
 
 **JobTrack** solves this with a structured, beautiful, and data-driven portal.
 
@@ -25,17 +29,24 @@ Students and professionals apply to dozens of jobs across LinkedIn, Indeed, Nauk
 
 ## Features
 
-| Feature          | Description                                         |
-| ---------------- | --------------------------------------------------- |
-| Auth             | JWT-based register/login with bcrypt                |
-| Add Applications | Company, role, location, salary, source, URL        |
-| Stage Tracking   | Saved → Applied → OA → Interview → Offer → Accepted |
-| Priority Flag    | Mark important applications                         |
-| Search & Filter  | Filter by stage, source; search by company/role     |
-| Dashboard        | Stats cards, recent applications, source breakdown  |
-| Kanban Board     | Visual pipeline with one-click stage moves          |
-| Reports          | Bar charts, pie charts, weekly trends (recharts)    |
-| Responsive       | Works on mobile and desktop                         |
+| Feature                   | Description |
+|--------------------------|-------------------------------------------------------------|
+| **Authentication**       | JWT-based registration and login with bcrypt password hashing |
+| **Password Reset**       | Recover account access through the password-reset flow |
+| **Add Applications**     | Track company, role, location, salary, source, and application URL |
+| **Stage Tracking**       | Track progress through Saved → Applied → OA → Interview → Offer → Accepted |
+| **Priority Flag**        | Mark important applications for easy identification |
+| **Search & Filter**      | Search by company or role and filter applications by stage or source |
+| **Dashboard**            | View statistics cards, recent applications, response rate, and source breakdown |
+| **Kanban Board**         | Visual application pipeline with quick stage updates |
+| **Reports & Analytics**  | Visualize application data with bar charts, pie charts, and weekly trends using Recharts |
+| **Notes Management**     | Maintain application notes and additional job-search details |
+| **Document Attachments** | Organize application-related documents, including PDFs |
+| **Recently Deleted**     | Access deleted applications and restore them where supported |
+| **Responsive Design**    | Use the application across mobile, tablet, and desktop screens |
+| **Dark Theme**           | Dark interface designed for a consistent, modern user experience |
+
+> **Note:** Keep only features that are implemented and working in your current codebase. Confirm that JWT authentication, bcrypt hashing, Recharts visualizations, and the listed application stages match your actual implementation.
 
 ---
 
@@ -80,6 +91,9 @@ Job-Application-Tracker-Portal/
 │   │   │   └── AuthContext.js   # Global auth state
 │   │   ├── pages/
 │   │   │   ├── LoginPage.js
+|   |   |   ├── ForgetPassword.js
+|   |   |   ├── ResetPassword.js
+|   |   |   ├── TrashPage.js
 │   │   │   ├── RegisterPage.js
 │   │   │   ├── DashboardPage.js
 │   │   │   ├── ApplicationsPage.js
