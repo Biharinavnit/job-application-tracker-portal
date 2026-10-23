@@ -210,50 +210,47 @@ NODE_ENV=development
 
 ---
 
-## 📸 Screenshots to Capture
+## 📸 Screenshot to Capture
 
-## Screenshots
+## Screenshot
 
 ### Register Page
 
-![Register](docs/screenshots/register.png)
+![Register](docs/screenshot/register.png)
 
 ### Login Page & Forget Password
 
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshot/login.png)
 
 ### Dashboard
 
-![User](docs/screenshots/dashboard.png)
+![User](docs/screenshot/dashboard.png)
 
 ### Kanban dashboard
 
-![Kanban](docs/screenshots/Kanban.png)
+![Kanban](docs/screenshot/Kanban.png)
 
 ### Add Application
 
-![Add application](docs/screenshots/Add-application.png)
+![Add application](docs/screenshot/Add-application.png)
 
 ### Application
 
-![application]docs/screenshots/Application.png
+![application]docs/screenshot/Application.png
 
 ### Reports and Analytics
 
-![reports](docs/screenshots/reports.png)
+![reports](docs/screenshot/reports.png)
 
 ### Recently Deleted
 
 
 ### MongoDB Collections
 
-![collection](docs/screenshots/mongodb-item.png)
+![collection](docs/screenshot/mongodb-item.png)
 
-## 🎬 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/WdKlcD4WcEc/0.jpg)](https://youtu.be/WdKlcD4WcEc)
 
-Click the image above to watch the full demo.
 
 ## Learning Outcomes
 
