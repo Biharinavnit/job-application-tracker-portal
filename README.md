@@ -227,12 +227,11 @@ NODE_ENV=development
 ### Reports and Analytics
 ![Reports and Analytics](docs/screenshoot/Reports%20and%20Analytics.png)
 
-### MongoDB Collections
-![MongoDB Collections](docs/screenshoot/MongoDB%20Collections.png)
-
 ### Recently Deleted
 ![Recently Deleted](docs/screenshoot/Recently%20Deleted.png)
 
+### MongoDB Collections
+![MongoDB Collections](docs/screenshoot/MongoDB%20Collections.png)
 
 
 ## Learning Outcomes
