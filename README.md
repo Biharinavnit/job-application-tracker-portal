@@ -218,7 +218,7 @@ NODE_ENV=development
 
 ![Register](docs/screenshots/register.png)
 
-### Login Page
+### Login Page & Forget Password
 
 ![Login](docs/screenshots/login.png)
 
@@ -241,6 +241,9 @@ NODE_ENV=development
 ### Reports and Analytics
 
 ![reports](docs/screenshots/reports.png)
+
+### Recently Deleted
+
 
 ### MongoDB Collections
 
