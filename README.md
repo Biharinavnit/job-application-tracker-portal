@@ -234,21 +234,22 @@ NODE_ENV=development
 ![MongoDB Collections](docs/screenshoot/MongoDB%20Collections.png)
 
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
-After building this project you will understand:
+By building the JobTrack — Job Application Tracker Portal, I gained practical experience in:
 
-- Full-stack MERN architecture and separation of concerns
-- JWT authentication flow (register → token → protected routes)
-- RESTful API design with Express.js
-- Mongoose schema design with relationships
-- React Context API for global state
-- Axios interceptors for automatic token attachment
-- React Router v6 with protected/public routes
-- Building reusable components (modals, layouts)
-- Data visualization with Recharts
-- MongoDB aggregation pipelines for analytics
-
+- **Full-Stack Development:** Understanding MERN architecture and separation of concerns between frontend, backend, and database.
+- **Authentication & Security:** Implementing JWT-based authentication, password hashing with bcryptjs, and protected API routes.
+- **REST API Development:** Designing RESTful endpoints using Node.js and Express.js for application CRUD operations.
+- **Database Modeling:** Creating Mongoose schemas, managing document relationships, and working with MongoDB.
+- **State Management:** Using React Context API to manage global authentication state.
+- **API Integration:** Configuring Axios interceptors to attach authentication tokens to API requests.
+- **Routing:** Implementing protected and public routes with React Router v6.
+- **Reusable Components:** Building reusable React components, modals, layouts, and forms.
+- **Data Visualization:** Creating interactive charts and reports using Recharts.
+- **Database Analytics:** Using MongoDB aggregation pipelines to calculate dashboard statistics and application trends.
+- **Workflow Management:** Modeling job application stages and implementing Kanban-based tracking.
+- **Debugging & Testing:** Validating API behavior, handling errors, and testing application workflows.
 ---
 
 ## Author
