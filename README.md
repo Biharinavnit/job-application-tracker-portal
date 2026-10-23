@@ -212,14 +212,14 @@ NODE_ENV=development
 
 ## 📸 Project Screenshots
 
-### Dashboard
-![Dashboard](docs/screenshoot/Dashboard.png)
-
 ### Login Page
 ![Login Page](docs/screenshoot/Login%20Page.png)
 
 ### Register Page
 ![Register Page](docs/screenshoot/Register%20Page.png)
+
+### Dashboard
+![Dashboard](docs/screenshoot/Dashboard.png)
 
 ### Kanban Dashboard
 ![Kanban Dashboard](docs/screenshoot/Kanban%20dashboard.png)
