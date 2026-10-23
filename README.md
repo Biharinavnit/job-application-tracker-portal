@@ -212,7 +212,7 @@ NODE_ENV=development
 
 ## 📸 Project Screenshots
 
-### Login Page
+### Login Page && ForgetPassword
 ![Login Page](docs/screenshoot/Login%20Page.png)
 
 ### Register Page
